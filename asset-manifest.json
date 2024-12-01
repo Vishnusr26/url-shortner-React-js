@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//Vishnusr.github.io/url-shortner-React-js/static/css/main.e48ca4db.css",
+    "main.js": "/http//Vishnusr.github.io/url-shortner-React-js/static/js/main.42582670.js",
+    "index.html": "/http//Vishnusr.github.io/url-shortner-React-js/index.html",
+    "main.e48ca4db.css.map": "/http//Vishnusr.github.io/url-shortner-React-js/static/css/main.e48ca4db.css.map",
+    "main.42582670.js.map": "/http//Vishnusr.github.io/url-shortner-React-js/static/js/main.42582670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e48ca4db.css",
+    "static/js/main.42582670.js"
+  ]
+}
